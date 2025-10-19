@@ -1,6 +1,6 @@
 🛡️ BitKni — A Decentralized Identity Token on Bitcoin
 
-!BitKni Icon
+![BitKni Icon](https://salmon-realistic-hippopotamus-907.mypinata.cloud/ipfs/bafkreiakj53npotmtcxle3te5geyztfkcxx4ls6wqgnny4rxu2divnuj5m)
 
 BitKni is a brc-2.0 token deployed on Bitcoin, designed to represent decentralized identity and sovereignty. The red knight symbolizes strength, independence, and crypto advocacy.
 
